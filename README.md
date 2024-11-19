@@ -39,7 +39,6 @@ What methods are you using to answer the question?
 #### Results
 What did your research find?
 XGBoast was the best performing model
-![alt text](image-1.png)
 
 #### Next steps
 What suggestions do you have for next steps?
@@ -60,8 +59,7 @@ Conduct profitability simulations.
 #### Outline of project
 
 - [Link to notebook 1](https://github.com/dsumme-ai/BCapstone)
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+
 
 
 ##### Contact and Further Information
