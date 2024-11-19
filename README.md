@@ -59,7 +59,7 @@ Conduct profitability simulations.
 
 #### Outline of project
 
-- [Data Prep and Model evaluation]([https://github.com/dsumme-ai/BCapstone](https://github.com/dsumme-ai/BCapstone/blob/main/Capstone.ipynb))
+- [Data Prep and Model evaluation]([https://github.com/dsumme-ai/BCapstone] (https://github.com/dsumme-ai/BCapstone/blob/main/Capstone.ipynb))
 
 
 
