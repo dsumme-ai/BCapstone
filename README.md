@@ -42,17 +42,18 @@ XGBoast was the best performing model
 
 #### Next steps
 What suggestions do you have for next steps?
-Data Preprocessing:
+
+1. Data Preprocessing:
 
 Ensure balanced classes with SMOTE or class weights.
 Add rolling features or profitability-based metrics.
 Model Training:
 
-Evaluate Random Forest, XGBoost, CatBoost, and LightGBM.
+2. Evaluate Random Forest, XGBoost, CatBoost, and LightGBM.
 Tune hyperparameters using Grid Search or Bayesian Optimization.
 Evaluation:
 
-Use SHAP for interpretability.
+3. Use SHAP for interpretability.
 Focus on class-specific Precision/Recall and AUC-PR.
 Conduct profitability simulations.
 
@@ -63,3 +64,5 @@ Conduct profitability simulations.
 
 
 ##### Contact and Further Information
+
+dsumme@gmail.com
