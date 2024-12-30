@@ -45,7 +45,7 @@ What suggestions do you have for next steps?
 
 Two Paths for future work, 1) productionze the model and build an interface so that user can enter their current portfolios for suggested changes and 2) look to pull in more sentiment context from twitter, analysis etc to give the model insights to trends in the market. 
 
-Given the accuracy of ~95%, if you are depending solely on this model for investment decisions.  I would recommend pulling in additional data sources and evaluate more neural networks models increase the performance of the model.  
+Given the accuracy of ~94%, if you are depending solely on this model for investment decisions.  I would recommend pulling in additional data sources and evaluate more neural networks models increase the performance of the model.  
 
 #### Outline of project
 
