@@ -40,22 +40,12 @@ What methods are you using to answer the question?
 What did your research find?
 XGBoast was the best performing model
 
-#### Next steps
+#### Future work
 What suggestions do you have for next steps?
 
-1. Data Preprocessing:
+Two Paths for future work, 1) productionze the model and build an interface so that user can enter their current portfolios for suggested changes and 2) look to pull in more sentiment context from twitter, analysis etc to give the model insights to trends in the market. 
 
-Ensure balanced classes with SMOTE or class weights.
-Add rolling features or profitability-based metrics.
-Model Training:
-
-2. Evaluate Random Forest, XGBoost, CatBoost, and LightGBM.
-Tune hyperparameters using Grid Search or Bayesian Optimization.
-Evaluation:
-
-3. Use SHAP for interpretability.
-Focus on class-specific Precision/Recall and AUC-PR.
-Conduct profitability simulations.
+Given the accuracy of ~95%, if you are depending solely on this model for investment decisions.  I would recommend pulling in additional data sources and evaluate more neural networks models increase the performance of the model.  
 
 #### Outline of project
 
