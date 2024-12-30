@@ -40,12 +40,17 @@ What methods are you using to answer the question?
 What did your research find?
 XGBoast was the best performing model
 
-#### Future work
-What suggestions do you have for next steps?
 
-Two Paths for future work, 1) productionze the model and build an interface so that user can enter their current portfolios for suggested changes and 2) look to pull in more sentiment context from twitter, analysis etc to give the model insights to trends in the market. 
+### Future work and considerations 
 
-Given the accuracy of ~94%, if you are depending solely on this model for investment decisions.  I would recommend pulling in additional data sources and evaluate more neural networks models increase the performance of the model.  
+Given Market sentiment Twitter/X have API for how stocks maybe trending, as MEME stocks and other conditions can cause stock to fluxuate on not finance outcomes/potential. 
+
+1. **Model Deployment**:  
+   - Develop a user-friendly interface for real-time portfolio suggestions based on user-provided holdings.  
+2. **Data Augmentation**:  
+   - Incorporate sentiment analysis from social media and news to enhance predictive capabilities.  
+3. **Model Enhancement**:  
+   - Explore neural network architectures to further improve model performance and scalability.  
 
 #### Outline of project
 
