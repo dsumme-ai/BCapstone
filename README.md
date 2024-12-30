@@ -71,7 +71,7 @@ The problem is to develop a machine learning model to optimize quarterly capital
 3. **Portfolio Metrics**: Metrics like the Sharpe Ratio and Maximum Drawdown were applied during backtesting to assess the model's impact on investment performance.  
 
 ### **Findings**  
-- XGBoost consistently outperformed other models in classification tasks.  
+- XGBoost consistently outperformed other models in classification tasks (~94%).  
 - Feature engineering significantly improved model accuracy, with lagged and rolling features playing a critical role.  
 
 ---
